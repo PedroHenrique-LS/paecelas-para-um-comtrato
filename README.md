@@ -19,11 +19,11 @@ Fazer um programa para ler os dados de um contrato (número do contrato, data do
 
 ## Diagrama de classe das entidades (entities)
 
-![Captura de tela 2023-08-27 200046.png](readme%20md%20424bf7b0d0d04127a2d2234db6af55f3/Captura_de_tela_2023-08-27_200046.png)
+![Captura de tela 2023-08-27 200046.png](assets/Captura_de_tela_2023-08-27_200046.png)
 
 ## Diagrama de classe dos serviços (services)
 
-![Captura de tela 2023-08-27 200124.png](readme%20md%20424bf7b0d0d04127a2d2234db6af55f3/Captura_de_tela_2023-08-27_200124.png)
+![Captura de tela 2023-08-27 200124.png](assets/Captura_de_tela_2023-08-27_200124.png)
 
 ## Tecnologias utilizadas:
 
